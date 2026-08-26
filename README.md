@@ -4,9 +4,9 @@ Assistant Windows simple pour gérer et améliorer un magasin BrickLink.
 
 ## Télécharger et installer
 
-➡️ **[Télécharger MyBrickWish pour Windows](https://github.com/mybrickwish/mybrickwish-downloads/releases/download/v0.1.0-beta.3/MyBrickWish-Setup-0.1.0-beta.3.exe)**
+➡️ **[Télécharger MyBrickWish pour Windows](https://github.com/mybrickwish/mybrickwish-downloads/releases/download/v0.1.0-beta.4/MyBrickWish-Setup-0.1.0-beta.4.exe)**
 
-1. Télécharge le fichier `MyBrickWish-Setup-0.1.0-beta.3.exe`.
+1. Télécharge le fichier `MyBrickWish-Setup-0.1.0-beta.4.exe`.
 2. Ouvre-le et suis les quelques étapes de l’installateur.
 3. Lance MyBrickWish avec le raccourci créé sur le bureau.
 
@@ -33,4 +33,4 @@ Lorsqu’une nouvelle version est prête, MyBrickWish propose **Télécharger et
 
 ## Version actuelle
 
-**0.1.0-beta.3** — bêta privée destinée à un petit groupe de testeurs de confiance.
+**0.1.0-beta.4** — bêta privée destinée à un petit groupe de testeurs de confiance.
