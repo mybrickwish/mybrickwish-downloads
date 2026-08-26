@@ -1,36 +1,36 @@
 # MyBrickWish
 
-Assistant Windows simple pour gérer et améliorer un magasin BrickLink.
+A simple Windows assistant for running and improving a BrickLink store.
 
-## Télécharger et installer
+## Download and install
 
-➡️ **[Télécharger MyBrickWish pour Windows](https://github.com/mybrickwish/mybrickwish-downloads/releases/download/v0.1.0-beta.4/MyBrickWish-Setup-0.1.0-beta.4.exe)**
+➡️ **[Download MyBrickWish for Windows](https://github.com/mybrickwish/mybrickwish-downloads/releases/download/v0.1.0-beta.5/MyBrickWish-Setup-0.1.0-beta.5.exe)**
 
-1. Télécharge le fichier `MyBrickWish-Setup-0.1.0-beta.4.exe`.
-2. Ouvre-le et suis les quelques étapes de l’installateur.
-3. Lance MyBrickWish avec le raccourci créé sur le bureau.
+1. Download `MyBrickWish-Setup-0.1.0-beta.5.exe`.
+2. Open it and follow the short installation wizard.
+3. Launch MyBrickWish using the desktop shortcut.
 
-Cette version bêta n’est pas encore signée. Si Windows SmartScreen apparaît, vérifie que le fichier vient bien de cette page GitHub, puis choisis **Informations complémentaires > Exécuter quand même**. Le fichier `.sha256` sert uniquement à la vérification automatique; il n’est pas nécessaire de le télécharger.
+This beta is not code-signed yet. If Windows SmartScreen appears, confirm that the file came from this GitHub page, then choose **More info > Run anyway**. The `.sha256` file is used by the automatic verification process; testers do not need to download it separately.
 
-## Configurer son magasin
+## Set up your store
 
-Au premier démarrage, un guide apparaît automatiquement dans **Accueil**. Il accompagne le testeur pour :
+On first launch, a setup guide appears automatically on the **Home** page. It helps each tester:
 
-1. nommer son profil de magasin;
-2. ajouter sa propre clé d’accès BrickLink;
-3. importer son premier inventaire;
-4. installer le catalogue LEGO;
-5. créer sa première source;
-6. ajouter un premier article.
+1. name their store profile;
+2. add their own BrickLink access key;
+3. import their first inventory;
+4. install the LEGO catalog;
+5. create their first inventory source;
+6. add their first item.
 
-Chaque magasin demeure séparé. La clé BrickLink, l’inventaire, les sauvegardes et les autres données privées restent sur l’ordinateur du testeur.
+Each store remains isolated. BrickLink access keys, inventory, backups, and other private store data stay on the tester's computer.
 
-## Mises à jour suivantes
+## Future updates
 
-Lorsqu’une nouvelle version est prête, MyBrickWish propose **Télécharger et installer** directement dans l’application. Le travail en cours est enregistré, l’application se ferme, installe la mise à jour et se rouvre automatiquement.
+When a new version is available, MyBrickWish offers **Download and install** directly inside the application. It saves current work, closes the application, installs the update, and reopens automatically.
 
-**Il ne faut pas désinstaller l’ancienne version.** Les profils et les données du magasin sont conservés.
+**Do not uninstall the previous version.** Store profiles and data are preserved during updates.
 
-## Version actuelle
+## Current version
 
-**0.1.0-beta.4** — bêta privée destinée à un petit groupe de testeurs de confiance.
+**0.1.0-beta.5** — private beta for a small group of trusted testers.
