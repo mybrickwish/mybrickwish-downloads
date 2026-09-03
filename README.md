@@ -4,9 +4,9 @@ A simple Windows assistant for running and improving a BrickLink store.
 
 ## Download and install
 
-➡️ **[Download MyBrickWish for Windows](https://github.com/mybrickwish/mybrickwish-downloads/releases/download/v0.1.0-beta.5/MyBrickWish-Setup-0.1.0-beta.5.exe)**
+➡️ **[Download MyBrickWish for Windows](https://github.com/mybrickwish/mybrickwish-downloads/releases/download/v0.1.0-beta.11/MyBrickWish-Setup-0.1.0-beta.11.exe)**
 
-1. Download `MyBrickWish-Setup-0.1.0-beta.5.exe`.
+1. Download `MyBrickWish-Setup-0.1.0-beta.11.exe`.
 2. Open it and follow the short installation wizard.
 3. Launch MyBrickWish using the desktop shortcut.
 
@@ -33,4 +33,4 @@ When a new version is available, MyBrickWish offers **Download and install** dir
 
 ## Current version
 
-**0.1.0-beta.5** — private beta for a small group of trusted testers.
+**0.1.0-beta.11** — private beta for a small group of trusted testers.
